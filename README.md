@@ -11,9 +11,10 @@ Hello! Welcome and thank you for your interest in helping test the next generati
 3. Clone Levi's fork of discovery which is the home for the anisotropy tools as of now.
   - Once you have cloned discovery, you will need to navigate into the repo and run `pip install -e .` to install an editable version of discovery.
 
-2 - example notebooks for how the bases work
+## 2 - Example Notebooks:
+  - examples/ has notebooks to demonstrate how to set up broad/narrowband models.
+  - ORF cookbook notebook demonstrates each basis currently implemented.
 
-3 - example scripts for broad/narrow band analyses
--- also different bases within them.
-
-4 - share results from runs with group!
+## 3 - Pick a model to test!
+  - There are a multitude of combinations to test! Broad/Narrow and any of the many bases.
+  - Contact Levi or Serena to claim!
