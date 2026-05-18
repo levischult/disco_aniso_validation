@@ -4,7 +4,7 @@ Repo containing scripts, notebooks, and datasets for validating anisotropy analy
 Hello! Welcome and thank you for your interest in helping test the next generation of anisotropy search software! We have a lot to test, so check this spreadsheet and get in touch on the IPTA Slack (#ipta_dr3_anisotropy)
 
 ## 1 - installation
-1. clone this repo
+1. Clone this repo
 2. Set up a mamba/virtual environment:
   - environments/jhp_disco.yaml for mamba/conda
   - environments/requirements.txt for python venv / pip
