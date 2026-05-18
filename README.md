@@ -1,7 +1,7 @@
 # disco_aniso_validation
 Repo containing scripts, notebooks, and datasets for validating anisotropy analyses in discovery
 
-Hello! Welcome and thank you for your interest in helping test the next generation of anisotropy search software! We have a lot to test, so check this spreadsheet and get in touch on the IPTA Slack (#ipta_dr3_anisotropy)
+Hello! Welcome and thank you for your interest in helping test the next generation of anisotropy search software! We have a lot to test, so check [this spreadsheet](https://docs.google.com/spreadsheets/d/1hOY8cTVAbK4HB3_8zVXUWulZvwcu5ylcfTzf06Grm-w/edit?usp=sharing) and get in touch on the IPTA Slack (#ipta_dr3_anisotropy)
 
 ## 1 - installation
 1. Clone this repo
@@ -17,5 +17,5 @@ Hello! Welcome and thank you for your interest in helping test the next generati
   - ORF cookbook notebook demonstrates each basis currently implemented.
 
 ## 3 - Pick a model to test!
-  - There are a multitude of combinations to test! Broad/Narrow and any of the many bases.
-  - Contact Levi or Serena to claim!
+  - There are a [multitude of combinations to test](https://docs.google.com/spreadsheets/d/1hOY8cTVAbK4HB3_8zVXUWulZvwcu5ylcfTzf06Grm-w/edit?usp=sharing)! Broad/Narrow and any of the many bases.
+  - Contact Levi or Serena to claim or comment on the sheet linked above!
