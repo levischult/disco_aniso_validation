@@ -9,7 +9,7 @@ Hello! Welcome and thank you for your interest in helping test the next generati
   - environments/jhp_disco.yaml for mamba/conda
   - environments/requirements.txt for python venv / pip
 3. Activate the environment
-4. Clone Levi's fork of discovery which is the home for the anisotropy tools as of now.
+4. Clone [Levi's fork of discovery](https://github.com/levischult/discovery) which is the home for the anisotropy tools as of now.
   - Once you have cloned discovery, you will need to navigate into the repo and run `pip install -e .` to install an editable version of discovery.
 
 ## 2 - Example Notebooks:
